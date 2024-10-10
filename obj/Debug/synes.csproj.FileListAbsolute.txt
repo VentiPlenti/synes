@@ -1,0 +1,40 @@
+C:\Users\katri\source\repos\synes\bin\Debug\synes.exe.config
+C:\Users\katri\source\repos\synes\bin\Debug\synes.exe
+C:\Users\katri\source\repos\synes\bin\Debug\synes.pdb
+C:\Users\katri\source\repos\synes\obj\Debug\synes.csprojAssemblyReference.cache
+C:\Users\katri\source\repos\synes\obj\Debug\synes.frmSynes.resources
+C:\Users\katri\source\repos\synes\obj\Debug\synes.Properties.Resources.resources
+C:\Users\katri\source\repos\synes\obj\Debug\synes.csproj.GenerateResource.cache
+C:\Users\katri\source\repos\synes\obj\Debug\synes.exe
+C:\Users\katri\source\repos\synes\obj\Debug\synes.pdb
+C:\Users\50039959\Downloads\synes\bin\Debug\synes.exe.config
+C:\Users\50039959\Downloads\synes\bin\Debug\synes.exe
+C:\Users\50039959\Downloads\synes\bin\Debug\synes.pdb
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.csproj.AssemblyReference.cache
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.frmSynes.resources
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.Properties.Resources.resources
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.csproj.GenerateResource.cache
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.csproj.CoreCompileInputs.cache
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.exe
+C:\Users\50039959\Downloads\synes\obj\Debug\synes.pdb
+C:\Users\50039959\OneDrive - SERC\Documents\synes\bin\Debug\synes.exe.config
+C:\Users\50039959\OneDrive - SERC\Documents\synes\bin\Debug\synes.exe
+C:\Users\50039959\OneDrive - SERC\Documents\synes\bin\Debug\synes.pdb
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.csproj.AssemblyReference.cache
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.frmSynes.resources
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.Properties.Resources.resources
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.csproj.GenerateResource.cache
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.csproj.CoreCompileInputs.cache
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.exe
+C:\Users\50039959\OneDrive - SERC\Documents\synes\obj\Debug\synes.pdb
+C:\Users\50039959\source\repos\VentiPlenti\synes\bin\Debug\synes.exe.config
+C:\Users\50039959\source\repos\VentiPlenti\synes\bin\Debug\synes.exe
+C:\Users\50039959\source\repos\VentiPlenti\synes\bin\Debug\synes.pdb
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.csproj.AssemblyReference.cache
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.frmSynes.resources
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.Properties.Resources.resources
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.csproj.GenerateResource.cache
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.csproj.CoreCompileInputs.cache
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.exe
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.pdb
+C:\Users\50039959\source\repos\VentiPlenti\synes\obj\Debug\synes.frmLogin.resources
