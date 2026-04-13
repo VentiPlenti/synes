@@ -40,7 +40,7 @@ namespace synes
             switch (char.ToUpper(letter))
             {
                 case 'A': return Color.FromArgb(255, 188, 0, 10);      // Opaque Red
-                case 'B': return Color.FromArgb(255, 233, 132, 23);   // Opaque Orange
+                case 'B': return Color.FromArgb(255, 230, 132, 23);   // Opaque Orange
                 case 'C': return Color.FromArgb(255, 32, 40, 250);    // Opaque Blue
                 case 'D': return Color.FromArgb(210, 20, 10, 30);      // Semi-Opaque Black
                 case 'E': return Color.FromArgb(255, 133, 220, 90);     // #85E65E
