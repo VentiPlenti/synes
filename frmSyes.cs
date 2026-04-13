@@ -78,6 +78,7 @@ namespace synes
                 case '2': return Color.FromArgb(255, 20, 40, 190);
                 case '3': return Color.FromArgb(255, 206, 80, 141);     // #CE508D
                 case '4': return Color.FromArgb(255, 0, 80, 100);
+                case '5': return Color.FromArgb(233, 255, 255 132);
 
                 default: return Color.Black;  // Default colour
             }
